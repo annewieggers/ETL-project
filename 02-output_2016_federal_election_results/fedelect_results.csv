@@ -1,151 +1,151 @@
-division_id,electoral_division,enrolment,demographic,previous_party,previous_seat_status,successful_party,seat_status
-179,Adelaide,109217,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-197,Aston,96043,Outer Metropolitan,Liberal,Fairly Safe,Liberal,Fairly Safe
-198,Ballarat,110755,Provincial,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-103,Banks,104891,Inner Metropolitan,Liberal,Marginal,Liberal,Marginal
-180,Barker,105600,Rural,Liberal,Safe,Liberal,Marginal
-104,Barton,106511,Inner Metropolitan,Liberal,Marginal,Australian Labor Party,Fairly Safe
-192,Bass,73555,Provincial,Liberal,Marginal,Australian Labor Party,Fairly Safe
-199,Batman,108935,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Marginal
-200,Bendigo,109604,Provincial,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-105,Bennelong,105962,Inner Metropolitan,Liberal,Fairly Safe,Liberal,Fairly Safe
-106,Berowra,105245,Outer Metropolitan,Liberal,Safe,Liberal,Safe
-304,Blair,98368,Provincial,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-107,Blaxland,103506,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-310,Bonner,100799,Outer Metropolitan,Liberal National Party,Marginal,Liberal National Party,Marginal
-182,Boothby,107325,Outer Metropolitan,Liberal,Fairly Safe,Liberal,Marginal
-155,Bowman,103446,Outer Metropolitan,Liberal National Party,Fairly Safe,Liberal National Party,Fairly Safe
-193,Braddon,72529,Rural,Liberal,Marginal,Australian Labor Party,Marginal
-108,Bradfield,105662,Inner Metropolitan,Liberal,Safe,Liberal,Safe
-235,Brand,98025,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Safe
-156,Brisbane,107003,Inner Metropolitan,Liberal National Party,Marginal,Liberal National Party,Marginal
-201,Bruce,96742,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-317,Burt,99474,Outer Metropolitan,Liberal,Fairly Safe,Australian Labor Party,Fairly Safe
-109,Calare,112957,Rural,The Nationals,Safe,The Nationals,Safe
-203,Calwell,109405,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-101,Canberra,143231,Inner Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
-236,Canning,98894,Outer Metropolitan,Liberal,Safe,Liberal,Fairly Safe
-157,Capricornia,98190,Provincial,Liberal National Party,Marginal,Liberal National Party,Marginal
-204,Casey,102908,Rural,Liberal,Fairly Safe,Liberal,Fairly Safe
-111,Chifley,103864,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-205,Chisholm,97424,Inner Metropolitan,Australian Labor Party,Marginal,Liberal,Marginal
-112,Cook,104340,Inner Metropolitan,Liberal,Safe,Liberal,Safe
-207,Corangamite,110277,Provincial,Liberal,Marginal,Liberal,Marginal
-208,Corio,107808,Provincial,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
-237,Cowan,96213,Outer Metropolitan,Liberal,Marginal,Australian Labor Party,Marginal
-113,Cowper,118260,Rural,The Nationals,Safe,The Nationals,Marginal
-114,Cunningham,111304,Provincial,Australian Labor Party,Safe,Australian Labor Party,Safe
-238,Curtin,97534,Inner Metropolitan,Liberal,Safe,Liberal,Safe
-158,Dawson,103665,Rural,Liberal National Party,Fairly Safe,Liberal National Party,Marginal
-209,Deakin,99698,Outer Metropolitan,Liberal,Marginal,Liberal,Marginal
-194,Denison,73963,Inner Metropolitan,Independent,Safe,Independent,Safe
-252,Dickson,100674,Outer Metropolitan,Liberal National Party,Fairly Safe,Liberal National Party,Marginal
-115,Dobell,111630,Provincial,Liberal,Marginal,Australian Labor Party,Marginal
-210,Dunkley,104957,Outer Metropolitan,Liberal,Marginal,Liberal,Marginal
-312,Durack,97294,Rural,Liberal,Marginal,Liberal,Safe
-117,Eden-Monaro,107817,Rural,Liberal,Marginal,Australian Labor Party,Marginal
-159,Fadden,104710,Outer Metropolitan,Liberal National Party,Safe,Liberal National Party,Safe
-160,Fairfax,108247,Rural,Palmer United Party,Marginal,Liberal National Party,Safe
-118,Farrer,111388,Rural,Liberal,Safe,Liberal,Safe
-102,Fenner,138814,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-161,Fisher,98592,Rural,Liberal National Party,Fairly Safe,Liberal National Party,Fairly Safe
-211,Flinders,115356,Rural,Liberal,Safe,Liberal,Fairly Safe
-311,Flynn,100667,Rural,Liberal National Party,Fairly Safe,Liberal National Party,Marginal
-162,Forde,99010,Outer Metropolitan,Liberal National Party,Marginal,Liberal National Party,Marginal
-239,Forrest,100262,Rural,Liberal,Safe,Liberal,Safe
-119,Fowler,105449,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-195,Franklin,76784,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Safe
-240,Fremantle,99550,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-212,Gellibrand,108469,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-120,Gilmore,115878,Rural,Liberal,Marginal,Liberal,Marginal
-213,Gippsland,104088,Rural,The Nationals,Safe,The Nationals,Safe
-214,Goldstein,104895,Inner Metropolitan,Liberal,Safe,Liberal,Safe
-309,Gorton,115977,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-121,Grayndler,105586,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-122,Greenway,104377,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-183,Grey,102059,Rural,Liberal,Safe,Liberal,Marginal
-163,Griffith,105828,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-164,Groom,101512,Provincial,Liberal National Party,Safe,Liberal National Party,Safe
-305,Hasluck,95334,Outer Metropolitan,Liberal,Fairly Safe,Liberal,Marginal
-165,Herbert,104815,Provincial,Liberal National Party,Fairly Safe,Australian Labor Party,Marginal
-215,Higgins,104678,Inner Metropolitan,Liberal,Fairly Safe,Liberal,Fairly Safe
-185,Hindmarsh,111715,Inner Metropolitan,Liberal,Marginal,Australian Labor Party,Marginal
-166,Hinkler,100687,Provincial,Liberal National Party,Fairly Safe,Liberal National Party,Fairly Safe
-216,Holt,116291,Outer Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
-217,Hotham,99994,Inner Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
-124,Hughes,104413,Outer Metropolitan,Liberal,Safe,Liberal,Fairly Safe
-125,Hume,107130,Provincial,Liberal,Safe,Liberal,Safe
-126,Hunter,113417,Rural,Australian Labor Party,Marginal,Australian Labor Party,Safe
-218,Indi,103734,Rural,Independent,Marginal,Independent,Marginal
-219,Isaacs,105756,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-220,Jagajaga,103132,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-167,Kennedy,99883,Rural,Katter's Australian Party,Marginal,Katter's Australian Party,Safe
-127,Kingsford Smith,108671,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-186,Kingston,105682,Outer Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
-221,Kooyong,100140,Inner Metropolitan,Liberal,Safe,Liberal,Safe
-223,La Trobe,105731,Outer Metropolitan,Liberal,Marginal,Liberal,Marginal
-222,Lalor,123609,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-168,Leichhardt,109077,Rural,Liberal National Party,Marginal,Liberal National Party,Marginal
-169,Lilley,106969,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-128,Lindsay,109724,Outer Metropolitan,Liberal,Marginal,Australian Labor Party,Marginal
-306,Lingiari,63131,Rural,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-302,Longman,105026,Provincial,Liberal National Party,Fairly Safe,Australian Labor Party,Marginal
-130,Lyne,111790,Rural,The Nationals,Safe,The Nationals,Safe
-196,Lyons,76639,Rural,Liberal,Marginal,Australian Labor Party,Marginal
-131,Macarthur,104857,Outer Metropolitan,Liberal,Marginal,Australian Labor Party,Fairly Safe
-132,Mackellar,108268,Outer Metropolitan,Liberal,Safe,Liberal,Safe
-133,Macquarie,104774,Provincial,Liberal,Marginal,Australian Labor Party,Marginal
-187,Makin,107086,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-224,Mallee,99324,Rural,The Nationals,Fairly Safe,The Nationals,Safe
-170,Maranoa,102780,Rural,Liberal National Party,Safe,Liberal National Party,Safe
-225,Maribyrnong,110286,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-188,Mayo,103981,Rural,Liberal,Safe,Nick Xenophon Team,Marginal
-226,McEwen,130612,Rural,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-315,McMahon,106159,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Safe
-227,McMillan,116200,Rural,Liberal,Safe,Liberal,Fairly Safe
-171,McPherson,103761,Provincial,Liberal National Party,Safe,Liberal National Party,Safe
-228,Melbourne,111741,Inner Metropolitan,The Greens,Marginal,The Greens,Safe
-230,Melbourne Ports,102283,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-229,Menzies,99205,Outer Metropolitan,Liberal,Safe,Liberal,Safe
-134,Mitchell,102410,Outer Metropolitan,Liberal,Safe,Liberal,Safe
-172,Moncrieff,102982,Provincial,Liberal National Party,Safe,Liberal National Party,Safe
-242,Moore,99887,Outer Metropolitan,Liberal,Safe,Liberal,Safe
-173,Moreton,97782,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-231,Murray,104359,Rural,Liberal,Safe,The Nationals,Marginal
-135,New England,109461,Rural,The Nationals,Safe,The Nationals,Fairly Safe
-136,Newcastle,113334,Provincial,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
-137,North Sydney,107040,Inner Metropolitan,Liberal,Safe,Liberal,Safe
-243,O'Connor,101778,Rural,Liberal,Marginal,Liberal,Safe
-174,Oxley,94997,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-138,Page,117263,Rural,The Nationals,Marginal,The Nationals,Marginal
-139,Parkes,107363,Rural,The Nationals,Safe,The Nationals,Safe
-140,Parramatta,101538,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
-249,Paterson,112541,Provincial,Liberal,Marginal,Australian Labor Party,Safe
-244,Pearce,104392,Outer Metropolitan,Liberal,Fairly Safe,Liberal,Marginal
-245,Perth,98714,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-175,Petrie,105390,Outer Metropolitan,Liberal National Party,Marginal,Liberal National Party,Marginal
-189,Port Adelaide,113346,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-176,Rankin,101700,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Safe
-144,Reid,105459,Inner Metropolitan,Liberal,Marginal,Liberal,Marginal
-145,Richmond,112715,Rural,Australian Labor Party,Marginal,Australian Labor Party,Marginal
-250,Riverina,111026,Rural,The Nationals,Safe,The Nationals,Safe
-146,Robertson,108435,Provincial,Liberal,Marginal,Liberal,Marginal
-177,Ryan,105037,Outer Metropolitan,Liberal National Party,Fairly Safe,Liberal National Party,Fairly Safe
-232,Scullin,110570,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-148,Shortland,110100,Provincial,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
-307,Solomon,69998,Inner Metropolitan,Country Liberals (NT),Marginal,Australian Labor Party,Marginal
-246,Stirling,98571,Inner Metropolitan,Liberal,Fairly Safe,Liberal,Fairly Safe
-190,Sturt,104742,Inner Metropolitan,Liberal,Safe,Liberal,Marginal
-247,Swan,97268,Inner Metropolitan,Liberal,Fairly Safe,Liberal,Marginal
-149,Sydney,110302,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
-248,Tangney,94025,Inner Metropolitan,Liberal,Safe,Liberal,Safe
-191,Wakefield,112251,Rural,Australian Labor Party,Marginal,Australian Labor Party,Safe
-233,Wannon,99155,Rural,Liberal,Safe,Liberal,Fairly Safe
-151,Warringah,102645,Inner Metropolitan,Liberal,Safe,Liberal,Safe
-251,Watson,105422,Inner Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
-152,Wentworth,102782,Inner Metropolitan,Liberal,Safe,Liberal,Safe
-153,Werriwa,108557,Outer Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
-150,Whitlam,112051,Provincial,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
-178,Wide Bay,102856,Rural,Liberal National Party,Safe,Liberal National Party,Fairly Safe
-234,Wills,113851,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Marginal
-316,Wright,99969,Rural,Liberal National Party,Safe,Liberal National Party,Fairly Safe
+division_id,enrolment,demographic,previous_party,previous_seat_status,successful_party,seat_status
+179,109217,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+197,96043,Outer Metropolitan,Liberal,Fairly Safe,Liberal,Fairly Safe
+198,110755,Provincial,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+103,104891,Inner Metropolitan,Liberal,Marginal,Liberal,Marginal
+180,105600,Rural,Liberal,Safe,Liberal,Marginal
+104,106511,Inner Metropolitan,Liberal,Marginal,Australian Labor Party,Fairly Safe
+192,73555,Provincial,Liberal,Marginal,Australian Labor Party,Fairly Safe
+199,108935,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Marginal
+200,109604,Provincial,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+105,105962,Inner Metropolitan,Liberal,Fairly Safe,Liberal,Fairly Safe
+106,105245,Outer Metropolitan,Liberal,Safe,Liberal,Safe
+304,98368,Provincial,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+107,103506,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+310,100799,Outer Metropolitan,Liberal National Party,Marginal,Liberal National Party,Marginal
+182,107325,Outer Metropolitan,Liberal,Fairly Safe,Liberal,Marginal
+155,103446,Outer Metropolitan,Liberal National Party,Fairly Safe,Liberal National Party,Fairly Safe
+193,72529,Rural,Liberal,Marginal,Australian Labor Party,Marginal
+108,105662,Inner Metropolitan,Liberal,Safe,Liberal,Safe
+235,98025,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Safe
+156,107003,Inner Metropolitan,Liberal National Party,Marginal,Liberal National Party,Marginal
+201,96742,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+317,99474,Outer Metropolitan,Liberal,Fairly Safe,Australian Labor Party,Fairly Safe
+109,112957,Rural,The Nationals,Safe,The Nationals,Safe
+203,109405,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+101,143231,Inner Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
+236,98894,Outer Metropolitan,Liberal,Safe,Liberal,Fairly Safe
+157,98190,Provincial,Liberal National Party,Marginal,Liberal National Party,Marginal
+204,102908,Rural,Liberal,Fairly Safe,Liberal,Fairly Safe
+111,103864,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+205,97424,Inner Metropolitan,Australian Labor Party,Marginal,Liberal,Marginal
+112,104340,Inner Metropolitan,Liberal,Safe,Liberal,Safe
+207,110277,Provincial,Liberal,Marginal,Liberal,Marginal
+208,107808,Provincial,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
+237,96213,Outer Metropolitan,Liberal,Marginal,Australian Labor Party,Marginal
+113,118260,Rural,The Nationals,Safe,The Nationals,Marginal
+114,111304,Provincial,Australian Labor Party,Safe,Australian Labor Party,Safe
+238,97534,Inner Metropolitan,Liberal,Safe,Liberal,Safe
+158,103665,Rural,Liberal National Party,Fairly Safe,Liberal National Party,Marginal
+209,99698,Outer Metropolitan,Liberal,Marginal,Liberal,Marginal
+194,73963,Inner Metropolitan,Independent,Safe,Independent,Safe
+252,100674,Outer Metropolitan,Liberal National Party,Fairly Safe,Liberal National Party,Marginal
+115,111630,Provincial,Liberal,Marginal,Australian Labor Party,Marginal
+210,104957,Outer Metropolitan,Liberal,Marginal,Liberal,Marginal
+312,97294,Rural,Liberal,Marginal,Liberal,Safe
+117,107817,Rural,Liberal,Marginal,Australian Labor Party,Marginal
+159,104710,Outer Metropolitan,Liberal National Party,Safe,Liberal National Party,Safe
+160,108247,Rural,Palmer United Party,Marginal,Liberal National Party,Safe
+118,111388,Rural,Liberal,Safe,Liberal,Safe
+102,138814,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+161,98592,Rural,Liberal National Party,Fairly Safe,Liberal National Party,Fairly Safe
+211,115356,Rural,Liberal,Safe,Liberal,Fairly Safe
+311,100667,Rural,Liberal National Party,Fairly Safe,Liberal National Party,Marginal
+162,99010,Outer Metropolitan,Liberal National Party,Marginal,Liberal National Party,Marginal
+239,100262,Rural,Liberal,Safe,Liberal,Safe
+119,105449,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+195,76784,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Safe
+240,99550,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+212,108469,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+120,115878,Rural,Liberal,Marginal,Liberal,Marginal
+213,104088,Rural,The Nationals,Safe,The Nationals,Safe
+214,104895,Inner Metropolitan,Liberal,Safe,Liberal,Safe
+309,115977,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+121,105586,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+122,104377,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+183,102059,Rural,Liberal,Safe,Liberal,Marginal
+163,105828,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+164,101512,Provincial,Liberal National Party,Safe,Liberal National Party,Safe
+305,95334,Outer Metropolitan,Liberal,Fairly Safe,Liberal,Marginal
+165,104815,Provincial,Liberal National Party,Fairly Safe,Australian Labor Party,Marginal
+215,104678,Inner Metropolitan,Liberal,Fairly Safe,Liberal,Fairly Safe
+185,111715,Inner Metropolitan,Liberal,Marginal,Australian Labor Party,Marginal
+166,100687,Provincial,Liberal National Party,Fairly Safe,Liberal National Party,Fairly Safe
+216,116291,Outer Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
+217,99994,Inner Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
+124,104413,Outer Metropolitan,Liberal,Safe,Liberal,Fairly Safe
+125,107130,Provincial,Liberal,Safe,Liberal,Safe
+126,113417,Rural,Australian Labor Party,Marginal,Australian Labor Party,Safe
+218,103734,Rural,Independent,Marginal,Independent,Marginal
+219,105756,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+220,103132,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+167,99883,Rural,Katter's Australian Party,Marginal,Katter's Australian Party,Safe
+127,108671,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+186,105682,Outer Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
+221,100140,Inner Metropolitan,Liberal,Safe,Liberal,Safe
+223,105731,Outer Metropolitan,Liberal,Marginal,Liberal,Marginal
+222,123609,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+168,109077,Rural,Liberal National Party,Marginal,Liberal National Party,Marginal
+169,106969,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+128,109724,Outer Metropolitan,Liberal,Marginal,Australian Labor Party,Marginal
+306,63131,Rural,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+302,105026,Provincial,Liberal National Party,Fairly Safe,Australian Labor Party,Marginal
+130,111790,Rural,The Nationals,Safe,The Nationals,Safe
+196,76639,Rural,Liberal,Marginal,Australian Labor Party,Marginal
+131,104857,Outer Metropolitan,Liberal,Marginal,Australian Labor Party,Fairly Safe
+132,108268,Outer Metropolitan,Liberal,Safe,Liberal,Safe
+133,104774,Provincial,Liberal,Marginal,Australian Labor Party,Marginal
+187,107086,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+224,99324,Rural,The Nationals,Fairly Safe,The Nationals,Safe
+170,102780,Rural,Liberal National Party,Safe,Liberal National Party,Safe
+225,110286,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+188,103981,Rural,Liberal,Safe,Nick Xenophon Team,Marginal
+226,130612,Rural,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+315,106159,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Safe
+227,116200,Rural,Liberal,Safe,Liberal,Fairly Safe
+171,103761,Provincial,Liberal National Party,Safe,Liberal National Party,Safe
+228,111741,Inner Metropolitan,The Greens,Marginal,The Greens,Safe
+230,102283,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+229,99205,Outer Metropolitan,Liberal,Safe,Liberal,Safe
+134,102410,Outer Metropolitan,Liberal,Safe,Liberal,Safe
+172,102982,Provincial,Liberal National Party,Safe,Liberal National Party,Safe
+242,99887,Outer Metropolitan,Liberal,Safe,Liberal,Safe
+173,97782,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+231,104359,Rural,Liberal,Safe,The Nationals,Marginal
+135,109461,Rural,The Nationals,Safe,The Nationals,Fairly Safe
+136,113334,Provincial,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
+137,107040,Inner Metropolitan,Liberal,Safe,Liberal,Safe
+243,101778,Rural,Liberal,Marginal,Liberal,Safe
+174,94997,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+138,117263,Rural,The Nationals,Marginal,The Nationals,Marginal
+139,107363,Rural,The Nationals,Safe,The Nationals,Safe
+140,101538,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Fairly Safe
+249,112541,Provincial,Liberal,Marginal,Australian Labor Party,Safe
+244,104392,Outer Metropolitan,Liberal,Fairly Safe,Liberal,Marginal
+245,98714,Inner Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+175,105390,Outer Metropolitan,Liberal National Party,Marginal,Liberal National Party,Marginal
+189,113346,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+176,101700,Outer Metropolitan,Australian Labor Party,Marginal,Australian Labor Party,Safe
+144,105459,Inner Metropolitan,Liberal,Marginal,Liberal,Marginal
+145,112715,Rural,Australian Labor Party,Marginal,Australian Labor Party,Marginal
+250,111026,Rural,The Nationals,Safe,The Nationals,Safe
+146,108435,Provincial,Liberal,Marginal,Liberal,Marginal
+177,105037,Outer Metropolitan,Liberal National Party,Fairly Safe,Liberal National Party,Fairly Safe
+232,110570,Outer Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+148,110100,Provincial,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
+307,69998,Inner Metropolitan,Country Liberals (NT),Marginal,Australian Labor Party,Marginal
+246,98571,Inner Metropolitan,Liberal,Fairly Safe,Liberal,Fairly Safe
+190,104742,Inner Metropolitan,Liberal,Safe,Liberal,Marginal
+247,97268,Inner Metropolitan,Liberal,Fairly Safe,Liberal,Marginal
+149,110302,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Safe
+248,94025,Inner Metropolitan,Liberal,Safe,Liberal,Safe
+191,112251,Rural,Australian Labor Party,Marginal,Australian Labor Party,Safe
+233,99155,Rural,Liberal,Safe,Liberal,Fairly Safe
+151,102645,Inner Metropolitan,Liberal,Safe,Liberal,Safe
+251,105422,Inner Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
+152,102782,Inner Metropolitan,Liberal,Safe,Liberal,Safe
+153,108557,Outer Metropolitan,Australian Labor Party,Fairly Safe,Australian Labor Party,Fairly Safe
+150,112051,Provincial,Australian Labor Party,Fairly Safe,Australian Labor Party,Safe
+178,102856,Rural,Liberal National Party,Safe,Liberal National Party,Fairly Safe
+234,113851,Inner Metropolitan,Australian Labor Party,Safe,Australian Labor Party,Marginal
+316,99969,Rural,Liberal National Party,Safe,Liberal National Party,Fairly Safe
