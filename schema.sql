@@ -1,3 +1,16 @@
+DROP TABLE electoral_division CASCADE;
+DROP TABLE election_results;
+DROP TABLE election_vote_types;
+DROP TABLE election_turnout;
+DROP TABLE marriage_postal_results;
+DROP TABLE marriage_postal_turnout;
+DROP TABLE marriage_postal_participants_by_age;
+DROP TABLE "2017_population_agedemo";
+DROP TABLE cultural_diversity;
+DROP TABLE education;
+
+
+
 CREATE TABLE "electoral_division" (
     "division_id" INT   NOT NULL,
     "electoral_division" VARCHAR(30)   NOT NULL,
@@ -33,13 +46,12 @@ CREATE TABLE "election_vote_types" (
      )
 );
 
-DROP TABLE election_turnout;
 
 CREATE TABLE "election_turnout" (
     "division_id" INT   NOT NULL,
     "total_enrolled" INT   NOT NULL,
     "total_votes" INT   NOT NULL,
-    "turnout_percentage" FLOAT   NOT NULL,
+    "turnout_percent" FLOAT   NOT NULL,
     CONSTRAINT "pk_election_turnout" PRIMARY KEY (
         "division_id"
      )
@@ -57,7 +69,7 @@ CREATE TABLE "marriage_postal_results" (
      )
 );
 
-DROP TABLE marriage_postal_turnout;
+
 
 CREATE TABLE "marriage_postal_turnout" (
     "division_id" INT   NOT NULL,
@@ -81,7 +93,6 @@ CREATE TABLE "marriage_postal_participants_by_age" (
      )
 );
 
-DROP TABLE "2017_population_agedemo";
 
 CREATE TABLE "2017_population_agedemo" (
     "division_id" INT   NOT NULL,
@@ -97,7 +108,7 @@ CREATE TABLE "2017_population_agedemo" (
      )
 );
 
-DROP TABLE cultural_diversity;
+
 
 CREATE TABLE "cultural_diversity" (
     "division_id" INT   NOT NULL,
@@ -147,6 +158,3 @@ ALTER TABLE "education" ADD CONSTRAINT "fk_education_division_id" FOREIGN KEY("d
 REFERENCES "electoral_division" ("division_id");
 
 
-DROP TABLE election_turnout;
-DROP TABLE education;
-DROP TABLE education_df;
