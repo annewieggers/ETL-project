@@ -1,4 +1,4 @@
-division_id,no_enrolled,total_votes,turnout%
+division_id,total_enrolled,total_votes,turnout%
 179,109217,98662,90.34
 197,96043,89111,92.78
 198,110755,103168,93.15
