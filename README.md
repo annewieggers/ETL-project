@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project creates a database that can be used for trend analysis on election and survey results in relation to the Australian electoral divisions. It includes data about the 2016 Australian Federal Elections, the 2017 Australian Marriage Law Postal Survey and the Commonwealth Electorates.
+This project creates a relational database that can be used for trend analysis on election and survey results in relation to the Australian electoral divisions. It includes data about the 2016 Australian Federal Elections, the 2017 Australian Marriage Law Postal Survey and the Commonwealth Electorates.
 
 
 ## How is the database sourced?
