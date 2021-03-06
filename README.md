@@ -6,7 +6,7 @@
 This project creates a database that can be used for trend analysis on election and survey results in relation to the Australian electoral divisions. It includes data about the 2016 Australian Federal Elections, the 2017 Australian Marriage Law Postal Survey and the Commonwealth Electorates.
 
 
-## How is this database sourced?
+## How is the database sourced?
 
 Data has been retrieved through the use of document downloads and web scraping. Any downloaded files are located in the resources folder. Jupyter notebooks are then used to access, transform and export the data.
 
